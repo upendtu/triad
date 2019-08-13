@@ -9,4 +9,5 @@ Ensure you have npm installed.
 * Boot the HTTP server
 * npm run server
 
-The server is now running at localhost:3000
+The server is now running at 
+* 127.0.0.1:8000
