@@ -1,7 +1,10 @@
 # triad
 
-Run the app 
+Running the app
+Ensure you have npm installed.
 
+Install http-server
 npm install
-
-npm run start
+Boot the HTTP server
+npm run server
+The server is now running at localhost:3000
